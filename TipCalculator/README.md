@@ -8,6 +8,7 @@ Add JavaFX library: File -> Project Structure -> Libraries -> add library path->
 Add VM Options: Run-> Edit Configuration -> modify options -> add vm options --module-path %PATH_TO_JAVAFX_SDK/LIB% --add-modules javafx.controls,javafx.fxml
 
 Screenshots
+
 ![image](https://user-images.githubusercontent.com/95673841/146757156-50b7f635-b545-4f75-8735-c45b6acb38d6.png)
 
 
